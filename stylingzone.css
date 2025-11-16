@@ -22,7 +22,7 @@ h2 {
     margin-bottom: 8px;
 }
 
-.artist {
+div#artist {
     background: #fff;
     box-shadow: 0 2px 12px rgba(0,0,0,0.08);
     padding: 18px;
@@ -31,11 +31,11 @@ h2 {
     transition: box-shadow 0.3s;
 }
 
-.artist:hover {
+div#artist:hover {
     box-shadow: 0 4px 16px rgba(24,119,242,0.16);
 }
 
-.artworks {
+div#artworks {
     margin-top: 12px;
 }
 
@@ -43,7 +43,7 @@ h2 {
     padding-left: 18px;
 }
 
-.artwork {
+div#artwork {
     font-style: italic;
     color: #1877f2;
 }
